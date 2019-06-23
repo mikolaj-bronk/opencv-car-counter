@@ -1,0 +1,13 @@
+﻿  ConsoleApplication1.cpp
+  cvui.h: compiling implementation because of CVUI_IMPLEMENTATION. See: https://dovyski.github.io/cvui/usage/
+c:\users\mikbr\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(43): warning C4244: "=": konwersja z "double" do "int", możliwa utrata danych
+c:\users\mikbr\source\repos\consoleapplication1\consoleapplication1\consoleapplication1.cpp(54): warning C4244: "argument": konwersja z "_Tp" do "_Tp", możliwa utrata danych
+          with
+          [
+              _Tp=int
+          ]
+          and
+          [
+              _Tp=float
+          ]
+  ConsoleApplication1.vcxproj -> C:\Users\mikbr\source\repos\ConsoleApplication1\x64\Debug\ConsoleApplication1.exe
